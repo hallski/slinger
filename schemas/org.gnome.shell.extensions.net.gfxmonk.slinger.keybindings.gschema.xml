@@ -10,15 +10,15 @@
 		<key type="as" name="slinger-swap-prev-window">            <default>["&lt;Mod4&gt;&lt;Shift&gt;k"]</default><summary>Swap with prev window</summary><description>Swap with prev window.</description></key>
 		<key type="as" name="slinger-swap-largest-window">         <default>["&lt;Mod4&gt;&lt;Shift&gt;space"]</default><summary>Swap with prev window</summary><description>Swap with prev window.</description></key>
 
-		<key type="as" name="slinger-move-right">                  <default>["&lt;Mod4&gt;l"]</default><summary>Grow master area</summary><description>Grow master area.</description></key>
-		<key type="as" name="slinger-move-left">                   <default>["&lt;Mod4&gt;h"]</default><summary>Shrink master area</summary><description>Shrink master area.</description></key>
-		<key type="as" name="slinger-move-up">                     <default>["&lt;Mod4&gt;i"]</default><summary>grow a slave area</summary><description>grow a slave area.</description></key>
-		<key type="as" name="slinger-move-down">                   <default>["&lt;Mod4&gt;u"]</default><summary>Shrink a slave area</summary><description>Shrink a slave area.</description></key>
+		<key type="as" name="slinger-move-right">                  <default>["&lt;Mod4&gt;&lt;Control&gt;&lt;Shift&gt;l"]</default><summary>Grow master area</summary><description>Grow master area.</description></key>
+		<key type="as" name="slinger-move-left">                   <default>["&lt;Mod4&gt;&lt;Control&gt;&lt;Shift&gt;h"]</default><summary>Shrink master area</summary><description>Shrink master area.</description></key>
+		<key type="as" name="slinger-move-up">                     <default>["&lt;Mod4&gt;&lt;Control&gt;&lt;Shift&gt;k"]</default><summary>grow a slave area</summary><description>grow a slave area.</description></key>
+		<key type="as" name="slinger-move-down">                   <default>["&lt;Mod4&gt;&lt;Control&gt;&lt;Shift&gt;j"]</default><summary>Shrink a slave area</summary><description>Shrink a slave area.</description></key>
 
-		<key type="as" name="slinger-grow-horizontal">             <default>["&lt;Mod4&gt;&lt;Shift&gt;l"]</default><summary>Increase window's width</summary><description>Increase window's width.</description></key>
-		<key type="as" name="slinger-shrink-horizontal">           <default>["&lt;Mod4&gt;&lt;Shift&gt;h"]</default><summary>Decrease window's width</summary><description>Decrease window's width.</description></key>
-		<key type="as" name="slinger-grow-vertical">               <default>["&lt;Mod4&gt;&lt;Shift&gt;u"]</default><summary>Increase window's height</summary><description>Increase window's height.</description></key>
-		<key type="as" name="slinger-shrink-vertical">             <default>["&lt;Mod4&gt;&lt;Shift&gt;i"]</default><summary>Decrease window's height</summary><description>Decrease window's height.</description></key>
+		<key type="as" name="slinger-grow-horizontal">             <default>["&lt;Alt&gt;&lt;Control&gt;&lt;Shift&gt;l"]</default><summary>Increase window's width</summary><description>Increase window's width.</description></key>
+		<key type="as" name="slinger-shrink-horizontal">           <default>["&lt;Alt&gt;&lt;Ctrl&gt;&lt;Shift&gt;h"]</default><summary>Decrease window's width</summary><description>Decrease window's width.</description></key>
+		<key type="as" name="slinger-grow-vertical">               <default>["&lt;Alt&gt;&lt;Control&gt;&lt;Shift&gt;j"]</default><summary>Increase window's height</summary><description>Increase window's height.</description></key>
+		<key type="as" name="slinger-shrink-vertical">             <default>["&lt;Alt&gt;&lt;Ctrl&gt;&lt;Shift&gt;k"]</default><summary>Decrease window's height</summary><description>Decrease window's height.</description></key>
 		<key type="as" name="slinger-grow">                        <default>["&lt;Mod4&gt;equal"]</default><summary>Increase window's size</summary><description>Increase window's size.</description></key>
 		<key type="as" name="slinger-shrink">                      <default>["&lt;Mod4&gt;minus"]</default><summary>Decrease window's size</summary><description>Decrease window's size.</description></key>
 
