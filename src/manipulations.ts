@@ -1,6 +1,6 @@
 module Manipulations {
-	const RESIZE_SENSITIVITY = 0.1;
-	const MOVE_SENSITIVITY = 0.1;
+	const RESIZE_SENSITIVITY = 0.05;
+	const MOVE_SENSITIVITY = 0.05;
 	const EDGE_AFFINITY = 30; // px
 
 	function axialPoint(axis: Axis, magnitude: number): Point {
