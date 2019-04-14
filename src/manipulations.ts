@@ -38,8 +38,8 @@ module Manipulations {
 			const diff = axialPoint(axis, amount);
 			// p("scaling diff: " + JSON.stringify(diff) + " on window rect: " + JSON.stringify(rect));
 			return {
-				// remove half of diff from pos to keep centered
-				pos: Point.add(rect.pos, Point.scaleConstant(-0.5, diff)),
+				// hallski (removed to keep top-left corner stationary) remove half of diff from pos to keep centered
+				pos: rect.pos, // Point.add(rect.pos, Point.scaleConstant(-0.5, diff)),
 				size: Point.add(rect.size, diff)
 			};
 		})
