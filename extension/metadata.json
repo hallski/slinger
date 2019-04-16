@@ -1,8 +1,8 @@
 {
-  "shell-version": [ "3.30" ],
-  "uuid": "slinger@gfxmonk.net",
-  "name": "slinger",
+  "shell-version": ["3.30"],
+  "uuid": "hallski-slinger@gfxmonk.net",
+  "name": "slinger (hallski)",
   "description": "Sling windows around efficiently",
   "gettext-domain": "slinger",
-  "url" : "https://github.com/timbertson/slinger"
+  "url": "https://github.com/timbertson/slinger"
 }
